@@ -5,7 +5,7 @@
 
 <hr style="border:2px solid black"> </hr>
 
-- This project is based on Jupyter Notebook, Python and Scikit-learn. The data set is ADNI+IXI. Through exploratory data analysis, data preprocessing (RFECV, StandScaler, PCA) and other operations on the data set, and then use SVM (linear), logistic regression, decision tree and random forest classifier to carry out binary classification and multi-classification of the progression of AD. Finally compare and analyze the results. get conclusion.
+- This project is based on Jupyter Notebook, Python and Scikit-learn. The data set is ADNI+IXI. Through exploratory data analysis, data preprocessing (RFECV, StandScaler, PCA) and other operations on the data set, and then use SVM (linear), logistic regression, decision tree and random forest classifier to carry out binary classification and multi-classification of the progression of AD. Finally compare and analyze the results. Get conclusion.
 
 <hr style="border:2px solid black"> </hr>
 

@@ -13,8 +13,8 @@
 ## TABLE OF CONTENT
 __1. Data structure__
 
-    1. ADNI (Alzheimer’s Disease Neuroimaging Initiative)
-    2. IXI (Information eXtraction from Images)
+    1.1. ADNI (Alzheimer’s Disease Neuroimaging Initiative)
+    1.2. IXI (Information eXtraction from Images)
     
 __2. Data Processing and Data Visualization__
 

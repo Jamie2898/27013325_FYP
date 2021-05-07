@@ -7,14 +7,24 @@
 
 - This project is based on Jupyter Notebook, Python and Scikit-learn. The data set is ADNI+IXI. Through exploratory data analysis, data preprocessing (RFECV, StandScaler, PCA) and other operations on the data set, and then use SVM (linear), logistic regression, decision tree and random forest classifier to carry out binary classification and multi-classification of the progression of AD. Finally compare and analyze the results. Get conclusion.
 
+- The running order of the files:
+
+    1. Data_structure_and_processing.ipyn
+    2. Male_Binary_Classifiers.ipynb
+    3. Female_Binary_Classifiers.ipynb
+    4. Multi-class classifiers.ipynb
+    5. Results.ipynb
+
+
+
 <hr style="border:2px solid black"> </hr>
 
 
 ## TABLE OF CONTENT
 __1. Data structure__
 
-    1.1. ADNI (Alzheimer’s Disease Neuroimaging Initiative)
-    1.2. IXI (Information eXtraction from Images)
+    1.1 ADNI (Alzheimer’s Disease Neuroimaging Initiative)
+    1.2 IXI (Information eXtraction from Images)
     
 __2. Data Processing and Data Visualization__
 
